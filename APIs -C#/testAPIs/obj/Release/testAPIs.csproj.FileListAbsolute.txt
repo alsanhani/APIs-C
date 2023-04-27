@@ -1,0 +1,28 @@
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\bin\Release\testAPIs.exe.config
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\bin\Release\testAPIs.exe
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\bin\Release\testAPIs.pdb
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Release\testAPIs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Release\testAPIs.edite.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Release\testAPIs.Form1.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Release\testAPIs.Properties.Resources.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Release\testAPIs.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Release\testAPIs.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Release\testAPIs.exe
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Release\testAPIs.pdb
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Release\testAPIs.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\bin\Release\testAPIs.exe.config
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\bin\Release\testAPIs.exe
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\bin\Release\testAPIs.pdb
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.add.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.admen.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.Check_user.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.edite.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.Form1.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.login.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.Properties.Resources.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.exe
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Release\testAPIs.pdb

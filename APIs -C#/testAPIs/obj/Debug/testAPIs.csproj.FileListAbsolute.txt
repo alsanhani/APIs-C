@@ -1,0 +1,30 @@
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\bin\Debug\testAPIs.exe.config
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\bin\Debug\testAPIs.exe
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\bin\Debug\testAPIs.pdb
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.Form1.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.Properties.Resources.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.exe
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.pdb
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.edite.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.add.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs\testAPIs\obj\Debug\testAPIs.login.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\bin\Debug\testAPIs.exe.config
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\bin\Debug\testAPIs.exe
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\bin\Debug\testAPIs.pdb
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.add.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.edite.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.Form1.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.login.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.Properties.Resources.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.exe
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.pdb
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.Check_user.resources
+C:\Users\pc\Desktop\مشاريع\testAPIs - Copy\testAPIs\obj\Debug\testAPIs.admen.resources
